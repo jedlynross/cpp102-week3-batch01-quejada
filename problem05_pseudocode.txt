@@ -1,0 +1,10 @@
+START
+INPUT price1
+INPUT quantity1
+INPUT price2
+INPUT quantity2
+INPUT price3
+INPUT quantity3
+PROCESS total bill = (price1 * quantity1) + (price2 * quantity2) + (price3 * quantity3)
+DISPLAY total bill
+END
