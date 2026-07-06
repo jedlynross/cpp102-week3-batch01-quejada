@@ -1,0 +1,10 @@
+START
+INPUT temperature
+IF temperature > 0 THEN
+DISPLAY "Above Freezing"
+IF temperature < 0 THEN
+DISPLAY "Below Freezing"
+IF temperature = 0 THEN
+DISPLAY "Exactly Freezing"
+END IF
+END

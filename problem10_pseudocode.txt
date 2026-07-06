@@ -1,0 +1,8 @@
+START
+INPUT locker number
+IF locker number is MOD 2 = 0 THEN
+DISPLAY "Even"
+ELSE
+DISPLAY "Odd"
+END IF
+END
