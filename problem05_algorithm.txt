@@ -1,0 +1,10 @@
+Start.
+Ask user to enter the first price. Store it as price1.
+Ask user to enter the first quantity. Store it as quantity1.
+Ask user to enter the second price. Store it as price2.
+Ask user to enter the second quantity. Store it as quantity2
+Ask user to enter the third price. Store it as price3.
+Ask user to enter the third quantity. Store it as quantity3.
+Compute total bill = (price1 * quantity1) + (price2 * quantity2) + (price3 * quantity3)
+Display the total bill.
+End.
