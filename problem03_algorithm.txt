@@ -1,0 +1,5 @@
+Start.
+Ask user to enter the hourly rate. Store it as hourly rate.
+Ask user to enter the number of hours worked. Store it as hours worked.
+Compute the gross pay = hourly rate * hours worked
+End.

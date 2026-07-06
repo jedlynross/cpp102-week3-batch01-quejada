@@ -1,0 +1,6 @@
+START
+INPUT length
+INPUT width
+PROCESS product = length * width
+DISPLAY product
+END

@@ -1,0 +1,6 @@
+Start.
+Ask user to enter the length. Store it as length.
+Ask the user to enter the width. Store it as width.
+Compute the product = length * width
+Display the product.
+End.
