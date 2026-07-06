@@ -1,0 +1,7 @@
+Start.
+Ask user to enter the first score. Store it as score1.
+Ask user to enter the second score. Store it as score2.
+Ask user to enter the third score. Store it as score3.
+Compute the average = (score1 + score2 + score3) / 3.
+Display the average.
+End.

@@ -1,0 +1,6 @@
+START
+INPUT hourly rate
+INPUT hours worked
+PROCESS gross pay = hourly rate * hours worked
+DISPLAY gross pay
+END
