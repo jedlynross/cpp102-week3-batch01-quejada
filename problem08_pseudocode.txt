@@ -1,0 +1,8 @@
+START
+INPUT final grade
+IF final grade >= 75 THEN
+DISPLAY "Passed"
+ELSE
+DISPLAY "Failed"
+END IF
+END

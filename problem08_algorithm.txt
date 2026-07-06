@@ -1,0 +1,6 @@
+Start.
+Ask user to enter the number. Store it as final grade.
+Check if number is 75 or above.
+If yes, display "Passed"
+If no, display "Failed'
+End.
